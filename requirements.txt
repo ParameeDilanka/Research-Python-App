@@ -13,5 +13,5 @@ packaging==23.1
 scikit-learn    
 scipy           
 threadpoolctl  
-Werkzeug==2.3.7          
-zipp==3.16.2       
+Werkzeug    
+zipp
